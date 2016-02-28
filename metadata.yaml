@@ -1,0 +1,26 @@
+_repo: Watchers-of-the-Sky_6574
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Astronomers -- Poetry'
+tableOfContents: Prologue -- Copernicus -- Tycho Brahe -- Kepler -- Galileo -- Newton
+  -- William Herschel conducts -- Sir John Herschel remembers -- Epilogue.
+title: Watchers of the Sky
+url: http://www.gutenberg.org/ebooks/6574
